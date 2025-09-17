@@ -11,9 +11,7 @@
 
 </div>
 
-## 🎯 What We're Building
-
-In this tutorial, we'll create a sophisticated **AI Agent** using an **agentic approach** - not just a chatbot that responds, but an intelligent system that autonomously:
+## 🎯 What it can do
 
 - 🧠 **Thinks**: Analyzes customer queries and decides the best action
 - 🔍 **Acts**: Searches real product databases using vector embeddings  
